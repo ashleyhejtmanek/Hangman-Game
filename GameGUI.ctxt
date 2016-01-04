@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameGUI()
+comment0.text=\r\n\ GameGUI\ Constructor\ creates\ the\ initial\ settings\ of\ the\ game\r\n\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ Method\ actionPerformed\ is\ where\ the\ GUI\ takes\ input\ and\ then\ processes\ it\ all\ into\ the\ actual\ game\ experience\r\n\r\n\ @param\ e\ A\ parameter\ which\ takes\ an\ event,\ ie.\ the\ clicking\ of\ the\ mouse,\ and\ then\ uses\ the\ properties\ of\ the\ event\ for\ the\ GIU\r\n
+comment2.params=
+comment2.target=void\ makeAlphabet()
+comment2.text=\r\n\ Method\ makeAlphabet\ creates\ all\ the\ buttons\ needed\ for\ the\ GUI\ to\ enter\ the\ letters\r\n\r\n
+comment3.params=
+comment3.target=void\ showStart()
+comment3.text=\ \r\n\ Method\ showStart\ shows\ the\ introduction\r\n
+comment4.params=
+comment4.target=int\ showEndWin()
+comment4.text=\r\n\ Method\ showEndWin\ shows\ the\ end\ window\ if\ the\ player\ wins\r\n\r\n\ @return\ The\ return\ value\ is\ the\ int\ which\ declares\ if\ the\ user\ picked\ yes\ or\ no\r\n
+comment5.params=
+comment5.target=int\ showEndLoss()
+comment5.text=\r\n\ Method\ showEndLoss\ shows\ the\ end\ window\ if\ the\ player\ loses\r\n\r\n\ @return\ The\ return\ value\ is\ the\ int\ which\ declares\ if\ the\ user\ picked\ yes\ or\ no\r\n
+numComments=6

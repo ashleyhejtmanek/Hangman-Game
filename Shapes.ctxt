@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=g2d
+comment0.target=void\ draw(java.awt.Graphics2D)
+comment1.params=c
+comment1.target=java.awt.Color\ getColorFromString(java.lang.String)
+numComments=2

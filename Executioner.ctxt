@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Executioner()
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ overrides\ the\ paintComponent\ of\ JPanel\r\n
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ loadImage()
+comment2.text=\ \r\n\ retrieves\ a\ BufferedImage\ from\ a\ disk\ file\r\n\ @return\ the\ BufferedImage,\ null\ if\ user\ cancels\r\n\ \r\n
+comment3.params=b
+comment3.target=void\ showImage(java.awt.image.BufferedImage)
+comment3.text=\ \r\n\ shows\ the\ image\r\n\ @param\ b\ the\ buffered\ image\ to\ show\r\n
+numComments=4
